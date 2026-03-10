@@ -4,8 +4,8 @@ A simple, offline-first task management app built with React Native and Expo. Cr
 
 ## Images
 
-![Screenshot_2026-03-10-10-52-56-207_host exp exponent](https://github.com/user-attachments/assets/097f4840-4e7b-4df7-9a0a-3fe39f7ca0d4)
-##### Home screen
+### Home screen
+##### ![Screenshot_2026-03-10-10-52-56-207_host exp exponent](https://github.com/user-attachments/assets/097f4840-4e7b-4df7-9a0a-3fe39f7ca0d4)
 
 ![Screenshot_2026-03-10-10-55-58-598_host exp exponent](https://github.com/user-attachments/assets/d03e6874-9083-4ee5-be71-ed83ac470bb8)
 ##### Task Added (Show All Task)
