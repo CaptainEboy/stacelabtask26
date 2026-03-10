@@ -32,7 +32,6 @@ npx expo start --clear --tunnel
 
 4. Scan the QRCode to open the app in your Expo Go app on your phone
 
-### Building for Production
 
 ## Features
 
